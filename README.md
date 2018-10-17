@@ -8,7 +8,7 @@ Esse documento tem como objetivo apresentar e descrever o projeto final, fornece
 
 ## [Representação da Arquitetura](representacao-da-arquitetura.md) 
 
-## [Desenvolvimento da Solução](Planejamento da Release - Prototipos/desenvolvimento-da-solucao.md)
+## [Desenvolvimento da Solução](/Planejamento da Release - Prototipos/desenvolvimento-da-solucao.md)
 
 ## [Testes e Validação](testes.md)
 
