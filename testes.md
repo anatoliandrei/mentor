@@ -67,5 +67,5 @@ Por fim, após utilizar o sistema, o quão estimulado você ficou a seguir apren
 
 ( ) 1 ( ) 2 ( ) 3 ( ) 4 ( ) 5
 
-Com as respostas obtidas, foram elaborados alguns gráficos para melhor visualização dos resultados e percepção de padrões para então desenvolvermos conclusões. Estes gráficos podem ser visualizados no diretório: 
+Com as respostas obtidas, foram elaborados alguns gráficos para melhor visualização dos resultados e percepção de padrões para então desenvolvermos conclusões. Estes gráficos podem ser visualizados no diretório "Graficos resultados da validacao" presente na raiz do repositório. 
 
